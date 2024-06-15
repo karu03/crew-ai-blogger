@@ -18,7 +18,6 @@ Professionals seeking AI-powered research and writing assistance
 Anyone interested in AI-powered content creation
 Get Involved:
 
-Clone the repo: git clone https://github.com/your-username/CrewAI-BloggerAI.git
 Explore the code: Learn how CrewAI and machine learning work together.
 Contribute: Help shape the future of AI-powered blogging!
 Let's automate content creation and write smarter blogs!
