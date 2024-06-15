@@ -1,0 +1,4 @@
+torch
+langchain_google_genai
+crewai==0.1.6
+
